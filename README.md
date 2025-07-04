@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vincent Fedetz</h1>
+<h1 align="center">Hi 👋, I'm Vince Fedetz</h1>
 <h3 align="center">Passionate Technology Enthusiast and Privacy Nerd</h3>
 
 - 🔭 I’m currently working on [my homelab](https://github.com/vfedetz/homelab)

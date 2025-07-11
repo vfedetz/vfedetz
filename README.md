@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vince Fedetz</h1>
 <h3 align="center">Passionate Technology Enthusiast and Privacy Nerd</h3>
 
-- 🔭 I’m currently working on [my homelab](https://github.com/vfedetz/homelab)
+- 🔭 I’m currently working on: [my homelab](https://github.com/vfedetz/homelab)
 
-- 🌱 I’m currently learning **About the CISSP certification**
+- 🌱 I’m currently learning: **about the CISSP certification**
 
-- 💬 Ask me about **Open source private selfhosted alternatives to mainstream cloud services**
+- 💬 Ask me about: **self-hosted alternatives to mainstream cloud services**
 
-- 📫 How to reach me **github@kan.ninja**
+- 📫 How to reach me: **github@kan.ninja**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/vincent-fedetz/)
+- 📄 Know about my experiences: [LinkedIn](https://www.linkedin.com/in/vincent-fedetz/)
 
-- ⚡ Fun fact **Force of Will is my favorite "Magic: The Gathering" card**
+- ⚡ Fun fact: **Force of Will is my favorite "Magic: The Gathering" card**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
